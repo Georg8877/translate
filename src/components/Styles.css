@@ -1,0 +1,20 @@
+.flagSize {
+  width: 30px;
+  height: 30px;
+  margin-left: 30px;
+  display: inline-grid;
+}
+.container {
+  display: flex;
+  width: auto;
+}
+.flag us {
+  width: 20px !important;
+}
+.flag ru {
+  width: 20px !important;
+}
+i.flag:not(.icon) {
+  width: 30px !important;
+  height: 30px !important;
+}
